@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de9c959a-77bf-409c-ac98-5511a112a8d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Function2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/devdungeon.icns" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/devdungeon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logos/devdungeon128x128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logos/devdungeon16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logos/devdungeon256x256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logos/devdungeon32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logos/devdungeon48x48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logos/devdungeon500x500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logos/devdungeon64x64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724968792997</updated>
       <workItem from="1724968794529" duration="6880000" />
-      <workItem from="1726225121211" duration="4116000" />
+      <workItem from="1726225121211" duration="4939000" />
     </task>
     <servers />
   </component>
